@@ -12,4 +12,8 @@ I've got a wide array of topics, from the basics to the advanced stuff, guiding 
 
 If you're a coding beginner or a coding champ, you're in for a treat as we dive deep into the intricacies of C. Let's go!
 
+**How to study:** 
+
+I have labelled the beginner topics, intermediate topics, and advanced topics, those are the main ones. The rest, you'll find out as you go.
+
 [Drop your Thanks!](https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6)
