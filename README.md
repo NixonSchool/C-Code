@@ -4,7 +4,9 @@ You're in the right place!
 
 ![image](https://github.com/user-attachments/assets/60d8f874-aabb-4a5d-a18f-bcb7c3fc13e4)
 
-This repository is my personal playground for all things C programming, I promise, there's no missing pieces.
+This repository is my personal playground for all things C programming, I promise, there's no missing pieces. 
+
+You should learn to C these days. So that your boss can give you arrays. And your memories can never leak. And...
 
 ![image](https://github.com/user-attachments/assets/0adb27db-bf02-4bb4-9561-67aec88fe72f)
 
