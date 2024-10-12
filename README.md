@@ -2,7 +2,7 @@
 
 You're in the right place! 
 
-![image](https://github.com/user-attachments/assets/d15563ea-515a-412f-8e5e-c7fc8a4dbb9a)
+![image](https://github.com/user-attachments/assets/60d8f874-aabb-4a5d-a18f-bcb7c3fc13e4)
 
 This repository is my personal playground for all things C programming, I promise, there's no missing pieces.
 
