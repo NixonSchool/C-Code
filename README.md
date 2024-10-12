@@ -14,7 +14,11 @@ You should learn to C these days. So that your boss can give you arrays. And you
 
 Inside these virtual walls, you'll find a collection of C code and complete notes.
 
-They say C is the language that other languages dream of becoming. Honestly? Same. 😎
+They say C is the language that other languages dream of becoming. 
+
+If you disagree, you should try pronouncing 'Supercalifragilistic-expialidocious.' If you can't, well, that just means you agree!"
+
+![image](https://github.com/user-attachments/assets/96eb1973-0a62-42f6-83a4-7b031ca52354)
 
 Topics are labeled by folders: beginner, intermediate, and advanced—but who needs labels? You'll figure it out as you go. Just dive in and embrace the chaos. Let's roll! 🎉
 
