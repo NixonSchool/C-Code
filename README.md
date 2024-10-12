@@ -4,7 +4,7 @@ You're in the right place!
 
 This repository is my personal playground for all things C programming, I promise, there's no missing pieces.
 
-![image](https://github.com/user-attachments/assets/001d4a1a-63a6-4b73-a688-416c4b450f0a)
+![image](https://github.com/user-attachments/assets/0adb27db-bf02-4bb4-9561-67aec88fe72f)
 
 **🌟 What Awaits You? Why C?🌟**
 
