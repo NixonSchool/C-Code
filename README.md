@@ -6,7 +6,7 @@ This repository is my personal playground for all things C programming, I promis
 
 **🌟 What Awaits You? Why C?🌟**
 
-Inside these virtual walls, you'll find a collection of C code and complete note + some quirky insights. They say C is the language that all others bow down to, and I couldn't agree more. 
+Inside these virtual walls, you'll find a collection of C code and complete notes + some quirky insights. They say C is the language that all others bow down to, and I couldn't agree more. 
 
 I've got a wide array of topics, from the basics to the advanced stuff, guiding you through everything. 
 
