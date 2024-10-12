@@ -2,6 +2,8 @@
 
 You're in the right place! 
 
+![image](https://github.com/user-attachments/assets/d15563ea-515a-412f-8e5e-c7fc8a4dbb9a)
+
 This repository is my personal playground for all things C programming, I promise, there's no missing pieces.
 
 ![image](https://github.com/user-attachments/assets/0adb27db-bf02-4bb4-9561-67aec88fe72f)
