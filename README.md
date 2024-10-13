@@ -22,6 +22,4 @@ If you disagree, you should try pronouncing 'Supercalifragilistic-expialidocious
 
 Topics are labeled by folders: beginner, intermediate, and advanced—but who needs labels? You'll figure it out as you go. Just dive in and embrace the chaos. Let's roll! 🎉
 
-[Drop your Thanks!](https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6)
-
 Have a blast!
